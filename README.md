@@ -4,7 +4,7 @@ This is an app that can help an employer manage a company's employee database. Y
 
 ## Employee Tracker Walkthrough Video
 
-### [Walkthrough Video of Employee Tracker](https://drive.google.com/file/d/17AAnIEuOBtziVv-bjcA3lNtHI-kgVDNk/view?usp=sharing)
+### [Walkthrough Video of Employee Tracker](https://drive.google.com/file/d/1euB4tdo_mtLlgq421n7AiIGQiQcfiCx1/view?usp=sharing)
 
 ## How to Use Employee Tracker App
 
