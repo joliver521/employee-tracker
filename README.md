@@ -22,6 +22,8 @@ To install clone the repository and open in vs code. This application requires n
 
 <img align="left" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 
+# </br>
+
 ## GitHub repository for challenge 12
 
 -   [Github Repo](https://github.com/joliver521/employee-tracker)
